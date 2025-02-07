@@ -1,4 +1,4 @@
-# Wind
+# Executer
 An Admin Panel For Moderating Hangout Games.
 
 ## About
